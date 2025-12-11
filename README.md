@@ -30,8 +30,6 @@ This project is a complete e-commerce solution that combines a modern React fron
 
 ## 🏗️ Architecture
 
-
-
 ### Data Flow
 
 1. **User Interaction**: Customer interacts with React frontend
@@ -46,25 +44,8 @@ This project is a complete e-commerce solution that combines a modern React fron
 7. **Order Processing**: Orders stored in Firebase, payments processed via Stripe
 8. **Admin Management**: Admin dashboard manages products, orders, and users
 
-### Component Interaction
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/ee253b96-264c-4d45-bd85-15b2b26a2e7b" />
 
-```
-Frontend (React)
-    │
-    ├──► Firebase Auth ──► User Authentication
-    │
-    ├──► Firebase Database ──► Products, Orders, Users
-    │
-    ├──► Firebase Storage ──► Images, Assets
-    │
-    ├──► Stripe API ──► Payment Processing
-    │
-    └──► RunPod API ──► Chatbot Service
-            │
-            └──► Pinecone ──► Vector Search
-```
-
----
 
 ## ✨ Features
 
