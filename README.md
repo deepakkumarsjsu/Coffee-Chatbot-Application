@@ -217,9 +217,9 @@ For detailed setup instructions, refer to the individual README files in the `fr
 
 This project was developed by a team of three members for CMPE 280 at San Jose State University:
 
-- **Person 1**: Frontend authentication, admin features, profile management
-- **Person 2**: Product catalog, cart, wishlist, order management
-- **Person 3**: Chatbot integration, payment processing, voice features
+- **Ravi**: Frontend authentication, admin features, profile management
+- **Poorna**: Product catalog, cart, wishlist, order management
+- **Deepak**: Chatbot integration, payment processing, voice features
 
 ### Development Timeline
 
