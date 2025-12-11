@@ -296,17 +296,17 @@ The project includes comprehensive performance and accessibility audit reports g
 
 The following audit reports are available in the `frontend/` directory:
 
-1. **Lighthouse Performance Audit Report** (`Lighthouse_Performance_Audit_Report.pdf`)
+1. **[Lighthouse Performance Audit Report](frontend/Lighthouse_Performance_Audit_Report.pdf)** (`Lighthouse_Performance_Audit_Report.pdf`)
    - Comprehensive performance metrics and optimization recommendations
    - Core Web Vitals analysis (LCP, FID, CLS)
    - Load time and resource optimization insights
 
-2. **Lighthouse Accessibility Report** (`Lighthouse_Accessibility_Report.pdf`)
+2. **[Lighthouse Accessibility Report](frontend/Lighthouse_Accessibility_Report.pdf)** (`Lighthouse_Accessibility_Report.pdf`)
    - Accessibility score and compliance metrics
    - WCAG 2.1 guideline adherence
    - Automated accessibility checks and recommendations
 
-3. **Axe DevTools WCAG Audit Report** (`Accessibility_Audit_Report_WCAG_AxeDevtools.pdf`)
+3. **[Axe DevTools WCAG Audit Report](frontend/Accessibility_Audit_Report_WCAG_AxeDevtools.pdf)** (`Accessibility_Audit_Report_WCAG_AxeDevtools.pdf`)
    - Detailed WCAG compliance analysis using Axe DevTools
    - Comprehensive accessibility violations and fixes
    - ARIA labels and semantic HTML validation
