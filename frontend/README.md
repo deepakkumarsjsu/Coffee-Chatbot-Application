@@ -291,30 +291,35 @@ frontend/
 
 ## 📸 Screenshots
 
-> **Note**: Add screenshots of your application here to showcase the features and UI.
 
 ### Home Page
-![Home Page](screenshots/home.png)
+<img width="1915" height="991" alt="image" src="https://github.com/user-attachments/assets/d9796662-9ef8-4a86-9055-b07a528c57a9" />
+
 *Product catalog with search and filtering*
 
 ### Shopping Cart
-![Shopping Cart](screenshots/cart.png)
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/79bac61c-bb8c-4003-a24c-6a1f1c7f0960" />
+
 *Shopping cart with order summary*
 
 ### Checkout
-![Checkout](screenshots/checkout.png)
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/928242c9-021d-44dc-82a8-03850947c22a" />
+
 *Secure payment processing with Stripe*
 
 ### User Profile
-![Profile](screenshots/profile.png)
+<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/150cd971-3527-4478-8900-d0c9b561fb49" />
+
 *User profile management*
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin.png)
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/cd1d09fd-81d3-4e2b-a97d-a6b225502be3" />
+
 *Admin panel for managing products and orders*
 
 ### Chatbot
-![Chatbot](screenshots/chatbot.png)
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/ee10c466-d1d3-4e85-a5a4-129bf89cfb05" />
+
 *AI-powered customer service chatbot*
 
 ## 📦 Building for Production
