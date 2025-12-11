@@ -12,6 +12,10 @@ A full-stack e-commerce platform for Merry's Way Coffee Shop, featuring an AI-po
 - [Technologies](#technologies)
 - [Team](#team)
 - [Documentation](#documentation)
+- [Performance & Accessibility Reports](#-performance--accessibility-reports)
+- [Security](#security)
+- [Testing](#testing)
+- [Troubleshooting](#troubleshooting)
 - [License](#license)
 
 ---
@@ -300,6 +304,60 @@ python development_code.py  # Local CLI testing
 - Lighthouse audits for frontend performance
 - Accessibility audits (WCAG compliance)
 - API response time monitoring
+
+---
+
+## 📊 Performance & Accessibility Reports
+
+The project includes comprehensive performance and accessibility audit reports generated using industry-standard tools. These reports demonstrate our commitment to building an accessible and performant web application.
+
+### Available Reports
+
+The following audit reports are available in the `frontend/` directory:
+
+1. **Lighthouse Performance Audit Report** (`Lighthouse_Performance_Audit_Report.pdf`)
+   - Comprehensive performance metrics and optimization recommendations
+   - Core Web Vitals analysis (LCP, FID, CLS)
+   - Load time and resource optimization insights
+
+2. **Lighthouse Accessibility Report** (`Lighthouse_Accessibility_Report.pdf`)
+   - Accessibility score and compliance metrics
+   - WCAG 2.1 guideline adherence
+   - Automated accessibility checks and recommendations
+
+3. **Axe DevTools WCAG Audit Report** (`Accessibility_Audit_Report_WCAG_AxeDevtools.pdf`)
+   - Detailed WCAG compliance analysis using Axe DevTools
+   - Comprehensive accessibility violations and fixes
+   - ARIA labels and semantic HTML validation
+   - Keyboard navigation and screen reader compatibility checks
+
+### WCAG Compliance
+
+The application has been tested and validated against **WCAG 2.1** (Web Content Accessibility Guidelines) standards, ensuring:
+
+- ✅ **Perceivable**: Content is presented in ways that users can perceive
+- ✅ **Operable**: Interface components are navigable and usable
+- ✅ **Understandable**: Information and UI operation are clear
+- ✅ **Robust**: Content can be interpreted reliably by assistive technologies
+
+### Key Accessibility Features
+
+- **ARIA Labels**: Proper ARIA attributes for screen reader support
+- **Keyboard Navigation**: Full keyboard accessibility throughout the application
+- **Semantic HTML**: Proper use of semantic HTML elements
+- **Color Contrast**: WCAG AA compliant color contrast ratios
+- **Focus Management**: Visible focus indicators for keyboard navigation
+- **Alt Text**: Descriptive alt text for images and icons
+
+### Performance Metrics
+
+The application has been optimized for:
+- **Fast Load Times**: Optimized bundle sizes and code splitting
+- **Efficient Rendering**: React performance best practices
+- **Resource Optimization**: Image optimization and lazy loading
+- **Core Web Vitals**: Meeting Google's Core Web Vitals thresholds
+
+For detailed audit results and recommendations, please refer to the PDF reports in the `frontend/` directory.
 
 ---
 
