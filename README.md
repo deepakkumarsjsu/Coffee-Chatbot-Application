@@ -341,6 +341,24 @@ The application has been optimized for:
 For detailed audit results and recommendations, please refer to the PDF reports in the `frontend/` directory.
 
 ---
+## 🤖 AI Tool Usage Disclosure
+
+This project was developed with the assistance of AI-powered development tools to support learning, productivity, and overall code quality. These tools were used responsibly as **assistive technologies** to accelerate development and improve clarity, while all core design decisions, implementations, and validations were performed by the team.
+
+The following AI tools were used during development:
+
+- **Cursor AI**  
+  Cursor AI was primarily used during active coding to assist with code generation, refactoring, and debugging. It helped generate initial drafts of React components, TypeScript interfaces, and utility functions, as well as suggest improvements for repetitive or boilerplate code. Cursor was also useful in identifying potential bugs or inefficiencies during refactoring. All generated code was carefully reviewed, modified, and tested by the team before being merged into the codebase.
+
+- **ChatGPT**  
+  ChatGPT was used as a reasoning and support tool for higher-level tasks such as architectural planning, problem decomposition, and design validation. It assisted in brainstorming the multi-agent chatbot architecture, understanding integration patterns between the frontend and backend, and reviewing code for readability and maintainability. ChatGPT was also used to help draft and refine documentation, explanations of technical decisions, and presentation scripts.
+
+**Responsible and Ethical Use**  
+AI tools were never used to blindly generate final solutions. Every AI-assisted output—whether code, documentation, or design suggestions—was manually reviewed, tested, and adapted to fit the project’s requirements, course guidelines, and best practices. The team ensured that all functionality, performance optimizations, accessibility fixes, and integrations were fully understood and intentionally implemented.
+
+The final project reflects the team’s own technical understanding, engineering judgment, and learning outcomes from CMPE 280. AI tools served strictly as productivity enhancers and learning aids, helping the team move faster while maintaining full ownership and accountability for the final implementation.
+
+---
 
 ## 🐛 Troubleshooting
 
